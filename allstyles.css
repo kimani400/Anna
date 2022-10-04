@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: fuchsia;
+}
+body{
+    background-image: url('me.jpg');
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(210, 30, 54);
+    background-color: springgreen;
+}
+h2{
+    background-color: mediumturquoise;
+}
+h3{
+    background-color: mediumturquoise;
+}
